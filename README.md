@@ -1,2 +1,2 @@
-# my_ML_service
+# ML + Django REST endpoints
 ML Web Service
