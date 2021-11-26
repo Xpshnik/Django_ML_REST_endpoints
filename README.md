@@ -1,2 +1,2 @@
 # ML + Django REST endpoints
-ML Web Service
+A Web Service allowing to communicate with ML algorithms (random forest and extra trees) via Django rest API endpoints.
